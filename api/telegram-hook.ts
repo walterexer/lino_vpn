@@ -38,6 +38,7 @@ Ready to browse without borders? Get today's list below
         inline_keyboard: [
           [{ text: "Get Today's Socks5", callback_data: "socks_5" }],
           [{ text: "Get Today's Socks4", callback_data: "socks_4" }],
+          [{ text: "Mobile Proxies", callback_data: "socks_5" }],
         ],
       },
     });
